@@ -1,0 +1,17 @@
+# RandomGrassPath by ProSavage
+# Made with <3
+
+
+# Do NOT mess with this
+version: ${project.version}
+
+
+# The chance represents the chance the block will turn into a grass path.
+# If it is at 1000, that means 1/1000 blocks will turn into grass path.
+# If we change too 100 - it will be 1/100.
+chance: 1000
+
+# Color codes are supported with the '&' character preceding them.
+messages:
+  compacts: '&7&oThe grass under you compacts...'
+

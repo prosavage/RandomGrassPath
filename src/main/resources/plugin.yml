@@ -2,4 +2,4 @@ name: RandomGrassPath
 author: ProSavage
 api-version: 1.13
 main: net.prosavage.randomgrasspath.RandomGrassPath
-version: 1.0
+version: ${project.version}
